@@ -1,6 +1,6 @@
 
 //Water for Q3texture, temp use.
-//This shader is for DarkPlaces Engine - Xonotic
+//This shader is for DarkPlaces Engine - Nexuiz
 
 textures/liquids/clear_ripple3
 {
