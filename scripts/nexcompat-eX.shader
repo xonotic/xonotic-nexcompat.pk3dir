@@ -7,9 +7,9 @@
 
 textures/eX/eX_lightpanel_01
 {
-	qer_EditorImage	textures/eX/eX_lightpanel_01.tga
+	qer_EditorImage	textures/exx/light/light_panel01.tga
 	{
-		map textures/eX/eX_lightpanel_01
+		map textures/exx/light/light_panel01
 	}
 	{
 		map $lightmap
@@ -18,9 +18,9 @@ textures/eX/eX_lightpanel_01
 
 textures/eX/eX_light_u201
 {
-	qer_EditorImage	textures/eX/eX_light_u201.tga
+	qer_EditorImage	textures/exx/light/light_u201.tga
 	{
-		map textures/eX/eX_light_u201
+		map textures/exx/light/light_u201
 	}
 	{
 		map $lightmap
@@ -31,9 +31,9 @@ textures/eX/eX_light_u201
 
 textures/eX/eX_clangfloor_01
 {
-	qer_EditorImage	textures/eX/eX_clangfloor_01.tga
+	qer_EditorImage	textures/exx/floor/floor_clang01.tga
 	{
-		map textures/eX/eX_clangfloor_01
+		map textures/exx/floor/floor_clang01
 	}
 	{
 		map $lightmap
@@ -42,9 +42,9 @@ textures/eX/eX_clangfloor_01
 
 textures/eX/eX_cretebase_01
 {
-	qer_EditorImage		textures/eX/eX_cretebase_01.tga
+	qer_EditorImage		textures/exx/base/base_crete01.tga
 	{
-		map textures/eX/eX_cretebase_01.tga
+		map textures/exx/base/base_crete01.tga
 	}
 	{
 		map $lightmap
@@ -53,9 +53,9 @@ textures/eX/eX_cretebase_01
 
 textures/eX/eX_cretefloor_01
 {
-	qer_EditorImage		textures/eX/eX_cretefloor_01.tga
+	qer_EditorImage		textures/exx/floor/floor_crete01.tga
 	{
-		map textures/eX/eX_cretefloor_01
+		map textures/exx/floor/floor_crete01
 	}
 	{
 		map $lightmap
@@ -64,9 +64,9 @@ textures/eX/eX_cretefloor_01
 
 textures/eX/eX_cretewall_01
 {
-	qer_EditorImage		textures/eX/eX_cretewall_01.tga
+	qer_EditorImage		textures/exx/wall/wall_crete01.tga
 	{
-		map textures/eX/eX_cretewall_01
+		map textures/exx/wall/wall_crete01
 	}
 	{
 		map $lightmap
@@ -75,9 +75,9 @@ textures/eX/eX_cretewall_01
 
 textures/eX/eX_cretewall_02
 {
-	qer_EditorImage		textures/eX/eX_cretewall_02.tga
+	qer_EditorImage		textures/exx/wall/wall_crete02.tga
 	{
-		map textures/eX/eX_cretewall_02
+		map textures/exx/wall/wall_crete02
 	}
 	{
 		map $lightmap
@@ -86,9 +86,9 @@ textures/eX/eX_cretewall_02
 
 textures/eX/eX_cretewall_03
 {
-	qer_EditorImage		textures/eX/eX_cretewall_03.tga
+	qer_EditorImage		textures/exx/wall/wall_crete03.tga
 	{
-		map textures/eX/eX_cretewall_03
+		map textures/exx/wall/wall_crete03
 	}
 	{
 		map $lightmap
@@ -97,9 +97,9 @@ textures/eX/eX_cretewall_03
 
 textures/eX/eX_cretewall_03b
 {
-	qer_EditorImage		textures/eX/eX_cretewall_03b.tga
+	qer_EditorImage		textures/exx/wall/wall_crete03b.tga
 	{
-		map textures/eX/eX_cretewall_03b
+		map textures/exx/wall/wall_crete03b
 	}
 	{
 		map $lightmap
@@ -110,9 +110,9 @@ textures/eX/eX_cretewall_03b
 
 textures/eX/eX_deswall_01
 {
-	qer_EditorImage		textures/eX/eX_deswall_01.tga
+	qer_EditorImage		textures/exx/wall/wall_des01.tga
 	{
-		map textures/eX/eX_deswall_01
+		map textures/exx/wall/wall_des01
 	}
 	{
 		map $lightmap
@@ -121,9 +121,9 @@ textures/eX/eX_deswall_01
 
 textures/eX/eX_floor_grate_03
 {
-	qer_EditorImage		textures/eX/eX_floor_grate_03.tga
+	qer_EditorImage		textures/exx/floor/floor_grate02.tga
 	{
-		map textures/eX/eX_floor_grate_03
+		map textures/exx/floor/floor_grate02
 	}
 	{
 		map $lightmap
@@ -132,9 +132,9 @@ textures/eX/eX_floor_grate_03
 
 textures/eX/eX_floor_grate_03_128
 {
-	qer_EditorImage		textures/eX/eX_floor_grate_03_128.tga
+	qer_EditorImage		textures/exx/floor/floor_grate03.tga
 	{
-		map textures/eX/eX_floor_grate_03_128
+		map textures/exx/floor/floor_grate03
 	}
 	{
 		map $lightmap
@@ -143,7 +143,7 @@ textures/eX/eX_floor_grate_03_128
 
 textures/eX/eX_floor_grate03
 {
-	qer_editorimage textures/eX/eX_floor_grate03.tga
+	qer_editorimage textures/exx/floor/floor_grate01.tga
 	surfaceparm alphashadow
 	surfaceparm trans
 	surfaceparm nomarks
@@ -151,7 +151,7 @@ textures/eX/eX_floor_grate03
 	cull disable
 	nopicmip
 	{
-		map textures/eX/eX_floor_grate03.tga
+		map textures/exx/floor/floor_grate01.tga
 		rgbGen identity
 		depthWrite
 		alphafunc GT0
@@ -167,9 +167,9 @@ textures/eX/eX_floor_grate03
 
 textures/eX/eX_floor_mtl_grate_01
 {
-	qer_EditorImage		textures/eX/eX_floor_mtl_grate_01.tga
+	qer_EditorImage		textures/exx/floor/floor_grate04.tga
 	{
-		map textures/eX/eX_floor_mtl_grate_01
+		map textures/exx/floor/floor_grate04
 	}
 	{
 		map $lightmap
@@ -178,9 +178,9 @@ textures/eX/eX_floor_mtl_grate_01
 
 textures/eX/eX_floor_mtl_wrn_01
 {
-	qer_EditorImage		textures/eX/eX_floor_mtl_wrn_01.tga
+	qer_EditorImage		textures/exx/floor/floor_wrn01.tga
 	{
-		map textures/eX/eX_floor_mtl_wrn_01
+		map textures/exx/floor/floor_wrn01
 	}
 	{
 		map $lightmap
@@ -189,9 +189,9 @@ textures/eX/eX_floor_mtl_wrn_01
 
 textures/eX/eX_floor_simple_05
 {
-	qer_EditorImage textures/eX/eX_floor_simple_05.tga
+	qer_EditorImage textures/exx/floor/floor_simple05.tga
 	{
-		map textures/eX/eX_floor_simple_05
+		map textures/exx/floor/floor_simple05
 	}
 	{
 		map $lightmap
@@ -200,9 +200,9 @@ textures/eX/eX_floor_simple_05
 
 textures/eX/eX_floor_simplines
 {
-	qer_EditorImage textures/eX/eX_floor_simplines.tga
+	qer_EditorImage textures/exx/floor/floor_simplines.tga
 	{
-		map textures/eX/eX_floor_simplines
+		map textures/exx/floor/floor_simplines
 	}
 	{
 		map $lightmap
@@ -211,9 +211,9 @@ textures/eX/eX_floor_simplines
 
 textures/eX/eX_floor_tile_03
 {
-	qer_EditorImage textures/eX/eX_floor_tile_03.tga
+	qer_EditorImage textures/exx/floor/floor_tile03.tga
 	{
-		map textures/eX/eX_floor_tile_03
+		map textures/exx/floor/floor_tile03
 	}
 	{
 		map $lightmap
@@ -222,9 +222,9 @@ textures/eX/eX_floor_tile_03
 
 textures/eX/eX_floor_tread_01
 {
-	qer_EditorImage textures/eX/eX_floor_tread_01.tga
+	qer_EditorImage textures/exx/floor/floor_tread01.tga
 	{
-		map textures/eX/eX_floor_tread_01
+		map textures/exx/floor/floor_tread01
 	}
 	{
 		map $lightmap
@@ -233,9 +233,9 @@ textures/eX/eX_floor_tread_01
 
 textures/eX/eX_floorpanel_01
 {
-	qer_EditorImage textures/eX/eX_floorpanel_01.tga
+	qer_EditorImage textures/exx/floor/floor_panel01.tga
 	{
-		map textures/eX/eX_floorpanel_01
+		map textures/exx/floor/floor_panel01
 	}
 	{
 		map $lightmap
@@ -244,9 +244,9 @@ textures/eX/eX_floorpanel_01
 
 textures/eX/eX_metalplate_01
 {
-	qer_EditorImage textures/eX/eX_metalplate_01.tga
+	qer_EditorImage textures/exx/panel/panel_metal05.tga
 	{
-		map textures/eX/eX_metalplate_01
+		map textures/exx/panel/panel_metal05
 	}
 	{
 		map $lightmap
@@ -255,9 +255,9 @@ textures/eX/eX_metalplate_01
 
 textures/eX/eX_metalSupp01
 {
-	qer_EditorImage textures/eX/eX_metalSupp01.tga
+	qer_EditorImage textures/exx/trim/trim_metalsupp01.tga
 	{
-		map textures/eX/eX_metalSupp01
+		map textures/exx/trim/trim_metalsupp01
 	}
 	{
 		map $lightmap
@@ -266,9 +266,9 @@ textures/eX/eX_metalSupp01
 
 textures/eX/eX_metalwall02
 {
-	qer_EditorImage textures/eX/eX_metalwall02.tga
+	qer_EditorImage textures/exx/wall/wall_metal02.tga
 	{
-		map textures/eX/eX_metalwall02
+		map textures/exx/wall/wall_metal02
 	}
 	{
 		map $lightmap
@@ -277,9 +277,9 @@ textures/eX/eX_metalwall02
 
 textures/eX/eX_mtl_bigplate_04
 {
-	qer_EditorImage textures/eX/eX_mtl_bigplate_04.tga
+	qer_EditorImage textures/exx/panel/panel_metalbig04.tga
 	{
-		map textures/eX/eX_mtl_bigplate_04
+		map textures/exx/panel/panel_metalbig04
 	}
 	{
 		map $lightmap
@@ -288,9 +288,9 @@ textures/eX/eX_mtl_bigplate_04
 
 textures/eX/eX_mtl_bigplate_04b
 {
-	qer_EditorImage textures/eX/eX_mtl_bigplate_04b.tga
+	qer_EditorImage textures/exx/panel/panel_metalbig04b.tga
 	{
-		map textures/eX/eX_mtl_bigplate_04b
+		map textures/exx/panel/panel_metalbig04b
 	}
 	{
 		map $lightmap
@@ -299,9 +299,9 @@ textures/eX/eX_mtl_bigplate_04b
 
 textures/eX/eX_mtl_panel_02
 {
-	qer_EditorImage textures/eX/eX_mtl_panel_02.tga
+	qer_EditorImage textures/exx/panel/panel_metal02.tga
 	{
-		map textures/eX/eX_mtl_panel_02
+		map textures/exx/panel/panel_metal02
 	}
 	{
 		map $lightmap
@@ -310,9 +310,9 @@ textures/eX/eX_mtl_panel_02
 
 textures/eX/eX_mtl_panel_03
 {
-	qer_EditorImage textures/eX/eX_mtl_panel_03.tga
+	qer_EditorImage textures/exx/panel/panel_metal03.tga
 	{
-		map textures/eX/eX_mtl_panel_03
+		map textures/exx/panel/panel_metal03
 	}
 	{
 		map $lightmap
@@ -321,9 +321,9 @@ textures/eX/eX_mtl_panel_03
 
 textures/eX/eX_mtl_panel_04
 {
-	qer_EditorImage textures/eX/eX_mtl_panel_04.tga
+	qer_EditorImage textures/exx/panel/panel_metal04.tga
 	{
-		map textures/eX/eX_mtl_panel_04
+		map textures/exx/panel/panel_metal04
 	}
 	{
 		map $lightmap
@@ -332,9 +332,9 @@ textures/eX/eX_mtl_panel_04
 
 textures/eX/eX_q2_01
 {
-	qer_EditorImage textures/eX/eX_q2_01.tga
+	qer_EditorImage textures/exx/panel/panel_q201.tga
 	{
-		map textures/eX/eX_q2_01
+		map textures/exx/panel/panel_q201
 	}
 	{
 		map $lightmap
@@ -343,9 +343,9 @@ textures/eX/eX_q2_01
 
 textures/eX/eX_q2_01b
 {
-	qer_EditorImage textures/eX/eX_q2_01b.tga
+	qer_EditorImage textures/exx/panel/panel_q201b.tga
 	{
-		map textures/eX/eX_q2_01b
+		map textures/exx/panel/panel_q201b
 	}
 	{
 		map $lightmap
@@ -354,9 +354,9 @@ textures/eX/eX_q2_01b
 
 textures/eX/eX_q2_01c
 {
-	qer_EditorImage textures/eX/eX_q2_01c.tga
+	qer_EditorImage textures/exx/panel/panel_q201c.tga
 	{
-		map textures/eX/eX_q2_01c
+		map textures/exx/panel/panel_q201c
 	}
 	{
 		map $lightmap
@@ -365,9 +365,9 @@ textures/eX/eX_q2_01c
 
 textures/eX/eX_q2_01d
 {
-	qer_EditorImage textures/eX/eX_q2_01d.tga
+	qer_EditorImage textures/exx/panel/panel_q201d.tga
 	{
-		map textures/eX/eX_q2_01d
+		map textures/exx/panel/panel_q201d
 	}
 	{
 		map $lightmap
@@ -376,9 +376,9 @@ textures/eX/eX_q2_01d
 
 textures/eX/eX_q2_01e
 {
-	qer_EditorImage textures/eX/eX_q2_01e.tga
+	qer_EditorImage textures/exx/panel/panel_q201e.tga
 	{
-		map textures/eX/eX_q2_01e
+		map textures/exx/panel/panel_q201e
 	}
 	{
 		map $lightmap
@@ -387,9 +387,9 @@ textures/eX/eX_q2_01e
 
 textures/eX/eX_rndfloor_01
 {
-	qer_EditorImage textures/eX/eX_rndfloor_01.tga
+	qer_EditorImage textures/exx/floor/floor_rnd01.tga
 	{
-		map textures/eX/eX_rndfloor_01
+		map textures/exx/floor/floor_rnd01
 	}
 	{
 		map $lightmap
@@ -398,9 +398,9 @@ textures/eX/eX_rndfloor_01
 
 textures/eX/eX_rndfloor_02
 {
-	qer_EditorImage textures/eX/eX_rndfloor_02.tga
+	qer_EditorImage textures/exx/floor/floor_rnd02.tga
 	{
-		map textures/eX/eX_rndfloor_02
+		map textures/exx/floor/floor_rnd02
 	}
 	{
 		map $lightmap
@@ -409,9 +409,9 @@ textures/eX/eX_rndfloor_02
 
 textures/eX/eX_rplates_01
 {
-	qer_EditorImage textures/eX/eX_rplates_01.tga
+	qer_EditorImage textures/exx/panel/panel_rs01.tga
 	{
-		map textures/eX/eX_rplates_01
+		map textures/exx/panel/panel_rs01
 	}
 	{
 		map $lightmap
@@ -420,9 +420,9 @@ textures/eX/eX_rplates_01
 
 textures/eX/eX_steptop_01
 {
-	qer_EditorImage textures/eX/eX_steptop_01.tga
+	qer_EditorImage textures/exx/trim/trim_steptop01.tga
 	{
-		map textures/eX/eX_steptop_01
+		map textures/exx/trim/trim_steptop01
 	}
 	{
 		map $lightmap
@@ -431,9 +431,9 @@ textures/eX/eX_steptop_01
 
 textures/eX/eX_trim_01
 {
-	qer_EditorImage textures/eX/eX_trim_01.tga
+	qer_EditorImage textures/exx/trim/trim_01.tga
 	{
-		map textures/eX/eX_trim_01
+		map textures/exx/trim/trim_01
 	}
 	{
 		map $lightmap
@@ -442,9 +442,9 @@ textures/eX/eX_trim_01
 
 textures/eX/eX_trim_baseboard_02
 {
-	qer_EditorImage textures/eX/eX_trim_baseboard_02.tga
+	qer_EditorImage textures/exx/trim/trim_baseboard02.tga
 	{
-		map textures/eX/eX_trim_baseboard_02
+		map textures/exx/trim/trim_baseboard02
 	}
 	{
 		map $lightmap
@@ -453,9 +453,9 @@ textures/eX/eX_trim_baseboard_02
 
 textures/eX/eX_trim_baseboard_03
 {
-	qer_EditorImage textures/eX/eX_trim_baseboard_03.tga
+	qer_EditorImage textures/exx/trim/trim_baseboard03.tga
 	{
-		map textures/eX/eX_trim_baseboard_03
+		map textures/exx/trim/trim_baseboard03
 	}
 	{
 		map $lightmap
@@ -464,9 +464,9 @@ textures/eX/eX_trim_baseboard_03
 
 textures/eX/eX_trim_baseboard
 {
-	qer_EditorImage textures/eX/eX_trim_baseboard.tga
+	qer_EditorImage textures/exx/trim/trim_baseboard.tga
 	{
-		map textures/eX/eX_trim_baseboard
+		map textures/exx/trim/trim_baseboard
 	}
 	{
 		map $lightmap
@@ -475,9 +475,9 @@ textures/eX/eX_trim_baseboard
 
 textures/eX/eX_trim_psimple_04
 {
-	qer_EditorImage textures/eX/eX_trim_psimple_04.tga
+	qer_EditorImage textures/exx/trim/trim_psimple04.tga
 	{
-		map textures/eX/eX_trim_psimple_04
+		map textures/exx/trim/trim_psimple04
 	}
 	{
 		map $lightmap
@@ -486,9 +486,9 @@ textures/eX/eX_trim_psimple_04
 
 textures/eX/eX_trim_psimple_05
 {
-	qer_EditorImage textures/eX/eX_trim_psimple_05.tga
+	qer_EditorImage textures/exx/trim/trim_psimple05.tga
 	{
-		map textures/eX/eX_trim_psimple_05
+		map textures/exx/trim/trim_psimple05
 	}
 	{
 		map $lightmap
@@ -497,9 +497,9 @@ textures/eX/eX_trim_psimple_05
 
 textures/eX/eX_trim_simple03
 {
-	qer_EditorImage textures/eX/eX_trim_simple03.tga
+	qer_EditorImage textures/exx/trim/trim_simple03.tga
 	{
-		map textures/eX/eX_trim_simple03
+		map textures/exx/trim/trim_simple03
 	}
 	{
 		map $lightmap
@@ -508,9 +508,9 @@ textures/eX/eX_trim_simple03
 
 textures/eX/eX_trim_simple_01
 {
-	qer_EditorImage textures/eX/eX_trim_simple_01.tga
+	qer_EditorImage textures/exx/trim/trim_simple01.tga
 	{
-		map textures/eX/eX_trim_simple_01
+		map textures/exx/trim/trim_simple01
 	}
 	{
 		map $lightmap
@@ -519,9 +519,9 @@ textures/eX/eX_trim_simple_01
 
 textures/eX/eX_trim_support_03
 {
-	qer_EditorImage textures/eX/eX_trim_support_03.tga
+	qer_EditorImage textures/exx/trim/trim_support03.tga
 	{
-		map textures/eX/eX_trim_support_03
+		map textures/exx/trim/trim_support03
 	}
 	{
 		map $lightmap
@@ -530,9 +530,9 @@ textures/eX/eX_trim_support_03
 
 textures/eX/eX_trim_vert_01
 {
-	qer_EditorImage textures/eX/eX_trim_vert_01.tga
+	qer_EditorImage textures/exx/trim/trim_vert01.tga
 	{
-		map textures/eX/eX_trim_vert_01
+		map textures/exx/trim/trim_vert01
 	}
 	{
 		map $lightmap
@@ -541,9 +541,9 @@ textures/eX/eX_trim_vert_01
 
 textures/eX/eX_wall_01
 {
-	qer_EditorImage textures/eX/eX_wall_01.tga
+	qer_EditorImage textures/exx/wall/wall_metal01.tga
 	{
-		map textures/eX/eX_wall_01
+		map textures/exx/wall/wall_metal01
 	}
 	{
 		map $lightmap
@@ -552,9 +552,9 @@ textures/eX/eX_wall_01
 
 textures/eX/eX_wall_b01
 {
-	qer_EditorImage textures/eX/eX_wall_b01.tga
+	qer_EditorImage textures/exx/wall/wall_metalb01.tga
 	{
-		map textures/eX/eX_wall_b01
+		map textures/exx/wall/wall_metalb01
 	}
 	{
 		map $lightmap
@@ -563,9 +563,9 @@ textures/eX/eX_wall_b01
 
 textures/eX/eX_wall_bigrib_02
 {
-	qer_EditorImage textures/eX/eX_wall_bigrib_02.tga
+	qer_EditorImage textures/exx/wall/wall_bigrib02.tga
 	{
-		map textures/eX/eX_wall_bigrib_02
+		map textures/exx/wall/wall_bigrib02
 	}
 	{
 		map $lightmap
@@ -574,9 +574,9 @@ textures/eX/eX_wall_bigrib_02
 
 textures/eX/eX_wall_bplate_06
 {
-	qer_EditorImage textures/eX/eX_wall_bplate_06.tga
+	qer_EditorImage textures/exx/wall/wall_bplate06.tga
 	{
-		map textures/eX/eX_wall_bplate_06
+		map textures/exx/wall/wall_bplate06
 	}
 	{
 		map $lightmap
@@ -585,9 +585,9 @@ textures/eX/eX_wall_bplate_06
 
 textures/eX/eX_wall_panel_05
 {
-	qer_EditorImage textures/eX/eX_wall_panel_05.tga
+	qer_EditorImage textures/exx/wall/wall_panel05.tga
 	{
-		map textures/eX/eX_wall_panel_05
+		map textures/exx/wall/wall_panel05
 	}
 	{
 		map $lightmap
@@ -596,9 +596,9 @@ textures/eX/eX_wall_panel_05
 
 textures/eX/eX_wall_panels_08
 {
-	qer_EditorImage textures/eX/eX_wall_panels_08.tga
+	qer_EditorImage textures/exx/wall/wall_panels08.tga
 	{
-		map textures/eX/eX_wall_panels_08
+		map textures/exx/wall/wall_panels08
 	}
 	{
 		map $lightmap
@@ -607,9 +607,9 @@ textures/eX/eX_wall_panels_08
 
 textures/eX/eX_wall_panels_08b
 {
-	qer_EditorImage textures/eX/eX_wall_panels_08b.tga
+	qer_EditorImage textures/exx/wall/wall_panels08b.tga
 	{
-		map textures/eX/eX_wall_panels_08b
+		map textures/exx/wall/wall_panels08b
 	}
 	{
 		map $lightmap
@@ -618,9 +618,9 @@ textures/eX/eX_wall_panels_08b
 
 textures/eX/eX_wall_pipe
 {
-	qer_EditorImage textures/eX/eX_wall_pipe.tga
+	qer_EditorImage textures/exx/wall/wall_pipe.tga
 	{
-		map textures/eX/eX_wall_pipe
+		map textures/exx/wall/wall_pipe
 	}
 	{
 		map $lightmap
@@ -629,9 +629,9 @@ textures/eX/eX_wall_pipe
 
 textures/eX/eX_wall_u207
 {
-	qer_EditorImage textures/eX/eX_wall_u207.tga
+	qer_EditorImage textures/exx/wall/wall_u207.tga
 	{
-		map textures/eX/eX_wall_u207
+		map textures/exx/wall/wall_u207
 	}
 	{
 		map $lightmap
@@ -640,9 +640,9 @@ textures/eX/eX_wall_u207
 
 textures/eX/eXmetal_plate01
 {
-	qer_EditorImage textures/eX/eXmetal_plate01.tga
+	qer_EditorImage textures/exx/panel/panel_metal01.tga
 	{
-		map textures/eX/eXmetal_plate01
+		map textures/exx/panel/panel_metal01
 	}
 	{
 		map $lightmap
@@ -651,9 +651,9 @@ textures/eX/eXmetal_plate01
 
 textures/eX/eXmetal_plate01b
 {
-	qer_EditorImage textures/eX/eXmetal_plate01B.tga
+	qer_EditorImage textures/exx/panel/panel_metal01b.tga
 	{
-		map textures/eX/eXmetal_plate01B
+		map textures/exx/panel/panel_metal01b
 	}
 	{
 		map $lightmap
@@ -662,9 +662,9 @@ textures/eX/eXmetal_plate01b
 
 textures/eX/eXmetal_plate01B
 {
-	qer_EditorImage textures/eX/eXmetal_plate01B.tga
+	qer_EditorImage textures/exx/panel/panel_metal01b.tga
 	{
-		map textures/eX/eXmetal_plate01B
+		map textures/exx/panel/panel_metal01b
 	}
 	{
 		map $lightmap
@@ -673,9 +673,9 @@ textures/eX/eXmetal_plate01B
 
 textures/eX/eXmetal_plate01c
 {
-	qer_EditorImage textures/eX/eXmetal_plate01c.tga
+	qer_EditorImage textures/exx/panel/panel_metal01c.tga
 	{
-		map textures/eX/eXmetal_plate01c
+		map textures/exx/panel/panel_metal01c
 	}
 	{
 		map $lightmap
@@ -684,9 +684,9 @@ textures/eX/eXmetal_plate01c
 
 textures/eX/eXmetalBase01
 {
-	qer_EditorImage textures/eX/eXmetalBase01.tga
+	qer_EditorImage textures/exx/base/base_metal01.tga
 	{
-		map textures/eX/eXmetalBase01
+		map textures/exx/base/base_metal01
 	}
 	{
 		map $lightmap
@@ -695,9 +695,9 @@ textures/eX/eXmetalBase01
 
 textures/eX/eXmetalBase02
 {
-	qer_EditorImage textures/eX/eXmetalBase02.tga
+	qer_EditorImage textures/exx/base/base_metal02.tga
 	{
-		map textures/eX/eXmetalBase02
+		map textures/exx/base/base_metal02
 	}
 	{
 		map $lightmap
@@ -706,9 +706,9 @@ textures/eX/eXmetalBase02
 
 textures/eX/eXmetalBase03
 {
-	qer_EditorImage textures/eX/eXmetalBase03.tga
+	qer_EditorImage textures/exx/base/base_metal03.tga
 	{
-		map textures/eX/eXmetalBase03
+		map textures/exx/base/base_metal03
 	}
 	{
 		map $lightmap
@@ -717,9 +717,9 @@ textures/eX/eXmetalBase03
 
 textures/eX/eXmetalBase04
 {
-	qer_EditorImage textures/eX/eXmetalBase04.tga
+	qer_EditorImage textures/exx/base/base_metal04.tga
 	{
-		map textures/eX/eXmetalBase04
+		map textures/exx/base/base_metal04
 	}
 	{
 		map $lightmap
@@ -728,9 +728,9 @@ textures/eX/eXmetalBase04
 
 textures/eX/eXmetalBase05Rust
 {
-	qer_EditorImage textures/eX/eXmetalBase05Rust.tga
+	qer_EditorImage textures/exx/base/base_metal05rust.tga
 	{
-		map textures/eX/eXmetalBase05Rust
+		map textures/exx/base/base_metal05rust
 	}
 	{
 		map $lightmap
@@ -739,9 +739,9 @@ textures/eX/eXmetalBase05Rust
 
 textures/eX/eXmetalFloor02
 {
-	qer_EditorImage textures/eX/eXmetalFloor02.tga
+	qer_EditorImage textures/exx/floor/floor_metal02.tga
 	{
-		map textures/eX/eXmetalFloor02
+		map textures/exx/floor/floor_metal02
 	}
 	{
 		map $lightmap
@@ -750,9 +750,9 @@ textures/eX/eXmetalFloor02
 
 textures/eX/eXmetalrib01
 {
-	qer_EditorImage textures/eX/eXmetalrib01.tga
+	qer_EditorImage textures/exx/wall/wall_metalrib01.tga
 	{
-		map textures/eX/eXmetalrib01
+		map textures/exx/wall/wall_metalrib01
 	}
 	{
 		map $lightmap
@@ -761,9 +761,9 @@ textures/eX/eXmetalrib01
 
 textures/eX/eX_clangfloor_01b
 {
-	qer_EditorImage textures/eX/eX_clangfloor_01b.tga
+	qer_EditorImage textures/exx/floor/floor_clang01b.tga
 	{
-		map textures/eX/eX_clangfloor_01b
+		map textures/exx/floor/floor_clang01b
 	}
 	{
 		map $lightmap
@@ -772,9 +772,9 @@ textures/eX/eX_clangfloor_01b
 
 textures/eX/eX_cretebase_02
 {
-	qer_EditorImage textures/eX/eX_cretebase_02.tga
+	qer_EditorImage textures/exx/base/base_crete02.tga
 	{
-		map textures/eX/eX_cretebase_02
+		map textures/exx/base/base_crete02
 	}
 	{
 		map $lightmap
@@ -783,9 +783,9 @@ textures/eX/eX_cretebase_02
 
 textures/eX/eX_cretebase_03_dark
 {
-	qer_EditorImage textures/eX/eX_cretebase_03_dark.tga
+	qer_EditorImage textures/exx/base/base_crete03.tga
 	{
-		map textures/eX/eX_cretebase_03_dark
+		map textures/exx/base/base_crete03
 	}
 	{
 		map $lightmap
@@ -794,9 +794,9 @@ textures/eX/eX_cretebase_03_dark
 
 textures/eX/eX_cretefloor_01b
 {
-	qer_EditorImage textures/eX/eX_cretefloor_01b.tga
+	qer_EditorImage textures/exx/floor/floor_crete01b.tga
 	{
-		map textures/eX/eX_cretefloor_01b
+		map textures/exx/floor/floor_crete01b
 	}
 	{
 		map $lightmap
@@ -805,9 +805,9 @@ textures/eX/eX_cretefloor_01b
 
 textures/eX/eXmetalBase06rust
 {
-	qer_EditorImage textures/eX/eXmetalBase06rust.tga
+	qer_EditorImage textures/exx/base/base_metal06rust.tga
 	{
-		map textures/eX/eXmetalBase06rust
+		map textures/exx/base/base_metal06rust
 	}
 	{
 		map $lightmap
@@ -816,9 +816,9 @@ textures/eX/eXmetalBase06rust
 
 textures/eX/eXmetalBase07rust
 {
-	qer_EditorImage textures/eX/eXmetalBase07rust.tga
+	qer_EditorImage textures/exx/base/base_metal07rust.tga
 	{
-		map textures/eX/eXmetalBase07rust
+		map textures/exx/base/base_metal07rust
 	}
 	{
 		map $lightmap
@@ -827,9 +827,9 @@ textures/eX/eXmetalBase07rust
 
 textures/eX/eX_wall_01b
 {
-	qer_EditorImage textures/eX/eX_wall_01b.tga
+	qer_EditorImage textures/exx/wall/wall_metal01b.tga
 	{
-		map textures/eX/eX_wall_01b
+		map textures/exx/wall/wall_metal01b
 	}
 	{
 		map $lightmap
