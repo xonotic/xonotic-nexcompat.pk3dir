@@ -119,6 +119,17 @@ textures/eX/eX_deswall_01
 	}	
 }
 
+textures/eX/eX_floor_grate_03
+{
+	qer_EditorImage		textures/eX/eX_floor_grate_03.tga
+	{
+		map textures/eX/eX_floor_grate_03
+	}
+	{
+		map $lightmap
+	}	
+}
+
 textures/eX/eX_floor_grate_03_128
 {
 	qer_EditorImage		textures/eX/eX_floor_grate_03_128.tga
@@ -649,6 +660,17 @@ textures/eX/eXmetal_plate01b
 	}
 }
 
+textures/eX/eXmetal_plate01B
+{
+	qer_EditorImage textures/eX/eXmetal_plate01B.tga
+	{
+		map textures/eX/eXmetal_plate01B
+	}
+	{
+		map $lightmap
+	}
+}
+
 textures/eX/eXmetal_plate01c
 {
 	qer_EditorImage textures/eX/eXmetal_plate01c.tga
@@ -687,6 +709,17 @@ textures/eX/eXmetalBase03
 	qer_EditorImage textures/eX/eXmetalBase03.tga
 	{
 		map textures/eX/eXmetalBase03
+	}
+	{
+		map $lightmap
+	}
+}
+
+textures/eX/eXmetalBase04
+{
+	qer_EditorImage textures/eX/eXmetalBase04.tga
+	{
+		map textures/eX/eXmetalBase04
 	}
 	{
 		map $lightmap
