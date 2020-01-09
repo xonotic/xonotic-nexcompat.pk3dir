@@ -37,12 +37,12 @@ textures/evil5_floor/tekconfllr_fx
 	{
 		map textures/evil5_floor/tekconfllr_fx.tga
 		tcmod scroll 0 .9
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
 		map textures/evil5_floor/tekconfllr.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{

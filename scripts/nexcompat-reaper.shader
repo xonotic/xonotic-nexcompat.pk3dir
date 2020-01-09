@@ -98,7 +98,7 @@ textures/shad/shad
 	surfaceparm trans
 	{
 		map *default
-		alphaFunc GT0
+		alphaFunc GE128
 		alphagen const 0.0
 	}
 }

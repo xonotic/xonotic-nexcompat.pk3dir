@@ -7,7 +7,7 @@ textures/evil6_support/e6h_support_s
 	cull none
 	{
 		map textures/evil6_support/e6h_support.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -26,7 +26,7 @@ textures/evil6_support/e6holestrip_s
 	cull none
 	{
 		map textures/evil6_support/e6holestrip.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -81,7 +81,7 @@ textures/evil6_support/e6x_supprt_s
 	cull none
 	{
 		map textures/evil6_support/e6x_supprt.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -100,7 +100,7 @@ textures/evil6_support/e6xrst_supprt_s
 	cull none
 	{
 		map textures/evil6_support/e6xrst_supprt.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{

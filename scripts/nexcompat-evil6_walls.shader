@@ -11,7 +11,7 @@ textures/evil6_walls/e6girdergrate_s
 	cull none
 	{
 		map textures/evil6_walls/e6girdergrate.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -32,7 +32,7 @@ textures/evil6_walls/e6girdergrate2b_s
 	cull none
 	{
 		map textures/evil6_walls/e6girdergrate2b.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -53,7 +53,7 @@ textures/evil6_walls/e6girdersupport_s
 	cull none
 	{
 		map textures/evil6_walls/e6girdersupport.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -74,7 +74,7 @@ textures/evil6_walls/e6indsdoor_s
 	cull none
 	{
 		map textures/evil6_walls/e6indsdoor.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
