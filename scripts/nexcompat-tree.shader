@@ -11,7 +11,7 @@ leaves2
 	deformVertexes wave 128 sin 0 1 0 0.4 
 	{
 		map textures/leaves2.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -29,7 +29,7 @@ cull none
 	deformVertexes wave 128 sin 0 1 0 0.4 
 	{
 		map textures/leaves6.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -46,7 +46,7 @@ cull none
 	deformVertexes wave 128 sin 0 1 0 0.2
 	{
 		map textures/grass.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -64,7 +64,7 @@ grass02
 	deformVertexes wave 128 sin 0 1 0 0.1 
 	{
 		map textures/grass2.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -81,7 +81,7 @@ cull none
 	deformVertexes wave 128 sin 0 1 0 0.5
 	{
 		map textures/leaves7.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
