@@ -174,7 +174,7 @@ textures/kaznexctf2/grate3
 	{
 		map textures/kaznexctf2/grate3.tga
 		//depthWrite
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbgen vertex
 	}
 }

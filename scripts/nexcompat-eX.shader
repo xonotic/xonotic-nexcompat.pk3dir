@@ -154,7 +154,7 @@ textures/eX/eX_floor_grate03
 		map textures/exx/floor/floor_grate01.tga
 		rgbGen identity
 		depthWrite
-		alphafunc GT0
+		alphaFunc GE128
 	}
 	{
 		map $lightmap

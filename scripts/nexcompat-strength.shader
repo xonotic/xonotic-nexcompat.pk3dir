@@ -472,7 +472,7 @@ textures/evil6_walls/e6girdergrate2b-trans
 		map textures/evil6_walls/e6girdergrate2b-trans.tga
 		rgbGen identity
 		depthWrite
-		alphafunc GE128
+		alphaFunc GE128
 	}
 	{
 		map $lightmap
