@@ -7,7 +7,7 @@ textures/evil6_floors/e6bsegrtflr128_s
 	cull none
 	{
 		map textures/evil6_floors/e6bsegrtflr128.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -26,7 +26,7 @@ textures/evil6_floors/e6bsegrtflr256_s
 	cull none
 	{
 		map textures/evil6_floors/e6bsegrtflr256.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -45,7 +45,7 @@ textures/evil6_floors/e6grate_flr_b_s
 	cull none
 	{
 		map textures/evil6_floors/e6grate_flr_b.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -64,7 +64,7 @@ textures/evil6_floors/e6grate_flr_s
 	cull none
 	{
 		map textures/evil6_floors/e6grate_flr.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -83,7 +83,7 @@ textures/evil6_floors/e6grtfloorceil_s
 	cull none
 	{
 		map textures/evil6_floors/e6grtfloorceil.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -102,7 +102,7 @@ textures/evil6_floors/e6grate2_flr_s
 	cull none
 	{
 		map textures/evil6_floors/e6grate2_flr.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -121,7 +121,7 @@ textures/evil6_floors/e6grate2_flr_b_s
 	cull none
 	{
 		map textures/evil6_floors/e6grate2_flr_b.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -301,7 +301,7 @@ textures/evil6_floors/e6xgratebasic_b_s
 	cull none
 	{
 		map textures/evil6_floors/e6xgratebasic_b.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{
@@ -320,7 +320,7 @@ textures/evil6_floors/e6xgratebasic_s
 	cull none
 	{
 		map textures/evil6_floors/e6xgratebasic.tga
-		alphafunc GE128
+		alphaFunc GE128
 		depthwrite
 	}
 	{

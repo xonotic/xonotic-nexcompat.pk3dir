@@ -8,7 +8,7 @@ textures/trak4/northwing
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -28,7 +28,7 @@ textures/trak4/southwing
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -48,7 +48,7 @@ textures/trak4/help
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -67,7 +67,7 @@ textures/trak4/pills
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -87,7 +87,7 @@ textures/trak4/theater1
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -107,7 +107,7 @@ textures/trak4/theater2
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -127,7 +127,7 @@ textures/trak4/exit
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -147,7 +147,7 @@ textures/trak4/iso1
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -167,7 +167,7 @@ textures/trak4/iso2
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{
@@ -187,7 +187,7 @@ textures/trak4/iso3
 	surfaceparm nonsolid
 	{
 		map $lightmap
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen identity
 	}
 	{

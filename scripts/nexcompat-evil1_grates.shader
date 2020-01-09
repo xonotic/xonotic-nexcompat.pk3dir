@@ -10,7 +10,7 @@ textures/evil1_grates/flrgrt_h
 	{
 		map textures/evil1_grates/flrgrt_h.tga
 		//depthWrite
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbgen vertex
 	}
 }

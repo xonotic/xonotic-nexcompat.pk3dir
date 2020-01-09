@@ -5,7 +5,7 @@ mflagshader
 	tessSize 32
 	{
 	map models/mflag/flag.tga
-	alphaFunc GT0
+	alphaFunc GE128
 	rgbGen vertex
 	}
 	}

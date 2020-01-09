@@ -83,7 +83,7 @@ textures/desertfactory_shaders/grates01
 	surfaceparm nomarks
 	{
 		map textures/desertfactory_metal/grates01.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -97,7 +97,7 @@ textures/desertfactory_shaders/grass01
 	cull none
 	{
 		map textures/desertfactory_misc/grass01.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -111,7 +111,7 @@ textures/desertfactory_shaders/grass02
 	cull none
 	{
 		map textures/desertfactory_misc/grass02.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -125,7 +125,7 @@ textures/desertfactory_shaders/vines01
 	cull none
 	{
 		map textures/desertfactory_misc/vines01.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -138,7 +138,7 @@ textures/desertfactory_shaders/sign_above_clean
 	qer_editorimage textures/desertfactory_shaders/sign_above_clean.jpg
 	{
 		map textures/desertfactory_signs/above_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -148,7 +148,7 @@ textures/desertfactory_shaders/sign_explosion_clean
 	qer_editorimage textures/desertfactory_shaders/sign_explosion_clean.jpg
 	{
 		map textures/desertfactory_signs/explosion_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -158,7 +158,7 @@ textures/desertfactory_shaders/sign_ladder_clean
 	qer_editorimage textures/desertfactory_shaders/sign_ladder_clean.tga
 	{
 		map textures/desertfactory_signs/ladder_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -168,7 +168,7 @@ textures/desertfactory_shaders/sign_radioactive_clean
 	qer_editorimage textures/desertfactory_shaders/sign_radioactive_clean.tga
 	{
 		map textures/desertfactory_signs/radioactive_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -178,7 +178,7 @@ textures/desertfactory_shaders/sign_shock_clean
 	qer_editorimage textures/desertfactory_shaders/sign_shock_clean.tga
 	{
 		map textures/desertfactory_signs/shock_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -188,7 +188,7 @@ textures/desertfactory_shaders/sign_toxic_clean
 	qer_editorimage textures/desertfactory_shaders/sign_toxic_clean.tga
 	{
 		map textures/desertfactory_signs/toxic_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -198,7 +198,7 @@ textures/desertfactory_shaders/sign_warning_clean
 	qer_editorimage textures/desertfactory_shaders/sign_warning_clean.tga
 	{
 		map textures/desertfactory_signs/warning_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -208,7 +208,7 @@ textures/desertfactory_shaders/sign_wires_clean
 	qer_editorimage textures/desertfactory_shaders/sign_wires_clean.tga
 	{
 		map textures/desertfactory_signs/wires_clean.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -218,7 +218,7 @@ textures/desertfactory_shaders/sign_above_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_above_dirty.tga
 	{
 		map textures/desertfactory_signs/above_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -228,7 +228,7 @@ textures/desertfactory_shaders/sign_explosion_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_explosion_dirty.tga
 	{
 		map textures/desertfactory_signs/explosion_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -238,7 +238,7 @@ textures/desertfactory_shaders/sign_ladder_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_ladder_dirty.tga
 	{
 		map textures/desertfactory_signs/ladder_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -248,7 +248,7 @@ textures/desertfactory_shaders/sign_radioactive_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_radioactive_dirty.tga
 	{
 		map textures/desertfactory_signs/radioactive_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -258,7 +258,7 @@ textures/desertfactory_shaders/sign_shock_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_shock_dirty.tga
 	{
 		map textures/desertfactory_signs/shock_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -268,7 +268,7 @@ textures/desertfactory_shaders/sign_toxic_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_toxic_dirty.tga
 	{
 		map textures/desertfactory_signs/toxic_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -278,7 +278,7 @@ textures/desertfactory_shaders/sign_warning_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_warning_dirty.tga
 	{
 		map textures/desertfactory_signs/warning_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
@@ -288,7 +288,7 @@ textures/desertfactory_shaders/sign_wires_dirty
 	qer_editorimage textures/desertfactory_shaders/sign_wires_dirty.tga
 	{
 		map textures/desertfactory_signs/wires_dirty.tga
-		alphaFunc GT0
+		alphaFunc GE128
 		rgbGen vertex
 	}
 }
