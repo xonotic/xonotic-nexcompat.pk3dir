@@ -17,9 +17,9 @@ textures/aggressor/mlight
 
 textures/aggressor/eX_floor_mtl_grate_01
 {
-	qer_EditorImage		textures/eX/eX_floor_mtl_grate_01.tga
+	qer_EditorImage		textures/exx/floor/floor_grate04.tga
 	{
-		map textures/eX/eX_floor_mtl_grate_01
+		map textures/exx/floor/floor_grate04
 	}
 	{
 		map $lightmap
